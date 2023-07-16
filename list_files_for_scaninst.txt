@@ -1,0 +1,17 @@
+Scan_App\
+x64\
+hppasc_lj425.cat
+hpbcoins32.dll
+hpbcoins64.dll
+hpbscancoins32.dll
+hpbscancoins64.dll
+hppscancoins32.dll
+hppscancoins64.dll
+hpptsplj425.dll
+hpptsplj425_x64.dll
+HPWia1_lj425.dll
+HPWia2_lj425.dll
+hpzjcd01.dll
+hpbniscan32.exe
+hpbniscan64.exe
+hppasc_lj425.inf
